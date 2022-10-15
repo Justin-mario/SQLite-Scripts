@@ -1,0 +1,8 @@
+SQLite is serveless.
+
+five data types are supported
+.null
+.integer
+.text
+.real/float
+.blob - takes anything
